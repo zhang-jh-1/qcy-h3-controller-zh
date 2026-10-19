@@ -17,7 +17,7 @@
 
 发布包是**文件夹版**（不是单文件 exe），解压后整个文件夹都要保留，不要只把 exe 拖出来：
 
-1. 从 [Releases](https://github.com/zhang-jh-1/qcy-h3-controller-zh/releases/latest) 下载并解压 `QCY_H3_中文版.zip`，得到 `QCY_H3_中文版` 文件夹。
+1. 从 [Releases](https://github.com/zhang-jh-1/qcy-h3-controller-zh/releases/latest) 下载并解压 `QCY_H3_Chinese_v1.0.0.zip`，得到 `QCY_H3_中文版` 文件夹。
 2. 耳机开机，正常连接电脑的蓝牙音频。
 3. **关闭手机上的 QCY App，并关闭手机蓝牙**（耳机同一时间只允许一个 BLE 控制连接）。
 4. 双击文件夹里的 `QCY_H3_中文版.exe`。
